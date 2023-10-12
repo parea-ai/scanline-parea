@@ -18,3 +18,4 @@ ailinter/streamlit/table.html
 scanline/ailinter/.DS_Store
 .DS_Store
 .idea
+/venv
